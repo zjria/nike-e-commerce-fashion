@@ -1,0 +1,101 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+* {
+    font-family: 'Bebas Neue', cursive;
+}
+
+.header-full {
+    background: #FFF9F4;
+}
+
+.text-one {
+    color: #FA804C;
+    font-weight: 700;
+    font-size: 70px;
+}
+
+.text-tow {
+    color: #363958;
+    font-weight: 700;
+    font-size: 70px;
+}
+
+.text p {
+    color: #3E3E3E;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.text button,
+.card-style button {
+    width: 170px;
+    height: 60px;
+    font-weight: 500;
+    font-size: 16px;
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    border-radius: 10px;
+    color: white;
+}
+
+.card-style button:hover,
+.text button:hover {
+    width: 170px;
+    height: 60px;
+    font-weight: 500;
+    font-size: 16px;
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    border-radius: 10px;
+    color: white;
+}
+
+.text button img,
+.card-style button img {
+    height: 24px;
+    left: 887.68px;
+    top: 442px;
+    color: white;
+}
+
+.main-section {
+    background: #E5E5E5;
+}
+
+.full-card {
+    background: #FFFFFF;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
+    padding: 16px;
+}
+
+.card-style h4 {
+    color: #FA804C;
+    font-weight: 900;
+    font-size: 36px;
+}
+
+.main-section .img-style {
+    background: #F1F1F1;
+    border-radius: 20px;
+}
+
+.card-body h5 {
+    color: #363958;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.card-body p {
+    color: #3E3E3E;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+
+
+.full-card {
+    background: #FFFFFF;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
+    padding: 16px;
+}
